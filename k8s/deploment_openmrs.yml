@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: openmrscore
-          image: shaikkhajaibrahim/openmrs-core:2.4.0
+          image: srinivasreddy368@gmail.com/openmrs-core:2.4.0
           ports:
             - containerPort: 8080
               protocol: TCP
